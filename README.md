@@ -2,7 +2,10 @@
 ## how to use GitHub Desktop
 ## how to use git revert
 
-z
-y
-x
-v
+a
+b
+c
+d
+e
+f
+g
